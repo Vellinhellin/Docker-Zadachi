@@ -11,3 +11,5 @@
 ![Apache+StaticSite](./Apache+StaticSite.md)
 
 ![SpeedTest](./speedtest.md)
+
+![MySQL](./MySQL.md)
