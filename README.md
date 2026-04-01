@@ -8,4 +8,6 @@
 
 ![Alt Linux в Docker](./Alt_Linux_In_Docker.md)
 
-![](./Apache+StaticSite.md)
+![Apache+StaticSite](./Apache+StaticSite.md)
+
+![SpeedTest](./speedtest.md)
