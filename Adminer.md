@@ -18,9 +18,22 @@ docker run -d \
 
 ![](./img/apachi/Adminer/RezPerv.png)
 
+
 [Откройте: http://localhost:8084](http://localhost:8084)
 ![](./img/apachi/Adminer/sait.png)
 
+
+(можно создать еще один, главное поменять порт и название)
+например:
+
+```
+docker run -d `
+  --name adminer_2 `
+  -p 8085:8080 `
+  adminer:latest
+```
+
+[Откройте: http://localhost:8085](http://localhost:8085)
 
 > Без отдельно запущенного контейнера с БД PostgreSQL и связи с ним админ-панель работаеть не будет!
 
